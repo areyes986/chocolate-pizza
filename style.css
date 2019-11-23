@@ -1,0 +1,50 @@
+body {
+    margin: auto;
+    width: 800px;
+}
+
+header {
+    height: 100px;
+    
+}
+
+header> figure {
+    float: left;
+}
+
+header> h2{
+    font-size: 20px;
+    float: left;
+}
+
+header> p{
+    font-size: 10px;
+    float: left;
+    
+}
+
+#socMedia{
+    float: right;
+}
+
+body > main {
+    display: block;
+
+}
+ 
+main > h1 {
+    font-size: 25px;
+}
+
+main > div {
+    display: inline-block;
+}
+
+#print-icon {
+    float: right;
+}
+
+#choco-pizza {
+    margin: auto;
+    width: 800px;
+}
