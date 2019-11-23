@@ -48,3 +48,16 @@ main > div {
     margin: auto;
     width: 800px;
 }
+
+main > p{
+    text-indent: 40px;
+}
+
+footer >p{
+    float: left;
+    white-space: pre-line;
+} 
+
+footer > img {
+    float: left;
+}
