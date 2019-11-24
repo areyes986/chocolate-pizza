@@ -1,6 +1,6 @@
 body {
     margin: auto;
-    width: 800px;
+    width: 700px;
 }
 
 header {
@@ -61,6 +61,7 @@ main > p{
 }
 
 footer {
+    margin-top: 30px;
     border-top: lightgrey solid 15px;
 }
 
@@ -71,4 +72,15 @@ footer >p{
 
 footer > img {
     float: left;
+}
+
+button {
+    float: right;
+    color: white;
+    background-color: rgb(182, 78, 9);
+    padding: 15px;
+    padding-left: 25px;
+    padding-right: 25px;
+    margin-top: 10px;
+    
 }
